@@ -1,0 +1,12 @@
+D:\School\Semester 6\COMP367\Lab4-Question1\StringLibrary\bin\Debug\net6.0\StringLibrary.deps.json
+D:\School\Semester 6\COMP367\Lab4-Question1\StringLibrary\bin\Debug\net6.0\StringLibrary.dll
+D:\School\Semester 6\COMP367\Lab4-Question1\StringLibrary\bin\Debug\net6.0\StringLibrary.pdb
+D:\School\Semester 6\COMP367\Lab4-Question1\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.AssemblyReference.cache
+D:\School\Semester 6\COMP367\Lab4-Question1\StringLibrary\obj\Debug\net6.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Semester 6\COMP367\Lab4-Question1\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfoInputs.cache
+D:\School\Semester 6\COMP367\Lab4-Question1\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfo.cs
+D:\School\Semester 6\COMP367\Lab4-Question1\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.CoreCompileInputs.cache
+D:\School\Semester 6\COMP367\Lab4-Question1\StringLibrary\obj\Debug\net6.0\StringLibrary.dll
+D:\School\Semester 6\COMP367\Lab4-Question1\StringLibrary\obj\Debug\net6.0\refint\StringLibrary.dll
+D:\School\Semester 6\COMP367\Lab4-Question1\StringLibrary\obj\Debug\net6.0\StringLibrary.pdb
+D:\School\Semester 6\COMP367\Lab4-Question1\StringLibrary\obj\Debug\net6.0\ref\StringLibrary.dll
